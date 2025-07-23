@@ -84,4 +84,4 @@
 
 [OSINT инструменты для поиска информации](https://github.com/OSINT-searcher/analogi_Glaza_Boga)
 
-[Открыть статью как отдельную страницу]()
+[Открыть статью как отдельную страницу](https://osint-searcher.github.io/analogi_glaz_boga/)
