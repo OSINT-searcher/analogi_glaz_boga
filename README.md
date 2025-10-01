@@ -19,7 +19,7 @@
 * Плюсы: Новый и недорогой.
 * Минусы: Не сильно развит.
 
-[Usersbox Bot](https://t.me/Hw5vt_peopleBot?start=NDA2ODQwMTU5)
+[Usersbox Bot](https://t.me/KNtzC_monitorRobot?start=NDA2ODQwMTU5)
 * Что умеет? Поиск по номеру, email, соцсетям.
 * Бесплатный доступ? Да, но с ограничениями.
 * Плюсы: Удобный интерфейс, много функций.
