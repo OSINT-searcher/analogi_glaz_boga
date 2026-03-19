@@ -22,7 +22,7 @@
 
 ## Бесплатные и условно-бесплатные альтернативы Глаза Бога
 
-[📲🪙🆓 Sherlock Bot](https://t.me/SwagarovSherlock_bot?start=_ref_9pyalm_JJwlz5)
+[📲🪙🆓 Sherlock Bot](https://t.me/shirlekprikol_bot?start=_ref_9pyalm_JJwlz5)
 * Что умеет? Анализ профилей, поиск по базам данных.
 * Бесплатный доступ? Нет, но есть демо-режим.
 * Плюсы: Новый и недорогой, **самый мощный**.
